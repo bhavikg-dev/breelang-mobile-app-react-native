@@ -1,0 +1,17 @@
+{
+    "submit": "Submit",
+
+    "login": "Login",    
+    "homeMenu": "Home",    
+    "welcome": "Welcome",
+    "skip": "Skip",
+    "logout": "Logout",
+    "go_home": "Go Home",
+    "loading": "Loading...",
+
+    "oldPassword": "Old Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+
+    "tokens":"Tokens",    
+}
